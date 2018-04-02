@@ -8,6 +8,8 @@ I'm not here to popularize a game engine, or to advertise it. In fact, I want to
 
 ### Required technology
 
+![Image text](https://github.com/ChenLyu01/Research-Project-1/blob/master/image/image1.png)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
