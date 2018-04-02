@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my Research Project One
 
-You can use the [editor on GitHub](https://github.com/ChenLyu01/Research-Project-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+First, I want to introduce the game engine to you, yes, a very famous game engine: Phaser.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Let me tell you about its URL first [Phaser](http://phaser.io/). If you are interested in it, please read the instructions in the website.
 
-### Markdown
+I'm not here to popularize a game engine, or to advertise it. In fact, I want to make one [Navigable Video](http://www.06-90.com/final/finalprojectChenLyu.html). That's the purpose of my study.
+
+### Required technology
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
