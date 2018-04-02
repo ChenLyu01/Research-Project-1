@@ -1,19 +1,41 @@
 ## Welcome to my Research Project One
 
-First, I want to introduce the game engine to you, yes, a very famous game engine: Phaser.
+First, I want to introduce the game engine to you, a famous game engine: Phaser.
 
-Let me tell you about its URL first [Phaser](http://phaser.io/). If you are interested in it, please read the instructions in the website.
+Its URL first [Phaser](http://phaser.io/). You please read the instructions in the website first.
 
-I'm not here to popularize a game engine, or to advertise it. In fact, I want to make one [Navigable Video](http://www.06-90.com/final/finalprojectChenLyu.html). That's the purpose of my study.
+In fact, I want to make one [Navigable Video](http://www.06-90.com/final/finalprojectChenLyu.html) Not a traditional games. The technology of this kind of video is what I want to study.
 
 ### Required technology
 
-![Image text](https://github.com/ChenLyu01/Research-Project-1/blob/master/image/image1.png)
+Let's look at this picture together.![Image text](https://github.com/ChenLyu01/Research-Project-1/blob/master/image/image1.png) I need to put it on the top of the video so that it can be clicked by the audience.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+```
+ for(var i=0;i<3;i++){//img.length
+	for(var a=0; a<4; a++){
+		x=parseInt(Math.random()*(45-1));
+		ctx.drawImage(img1,162*(a)+20 ,93*(i)+30);
+		this.rects.push({
+			blockID: this.blockID ++,
+			coord: [162*(a)+20, 93*(i)+30, 108, 93],
+			selected: 0,
+			rnd: x
+		});
+	}
+}
+for(var i=0;i<2;i++){    
+	for(var a=0; a<3; a++){
+		x=parseInt(Math.random()*(45-1));
+		ctx.drawImage(img2,162*(a)+20+81 ,93*(i)+30+46);
+		this.rects.push({
+			blockID: this.blockID ++,
+			coord: [162*(a)+20+81, 93*(i)+30+46, 108, 93],
+			selected: 0,
+			rnd: x
+		});
+	}   
+}
+```
 
 # Header 1
 ## Header 2
