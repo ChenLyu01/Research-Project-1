@@ -8,8 +8,10 @@ In fact, I want to make one [Navigable Video](http://www.06-90.com/final/finalpr
 
 ### Required technology
 
-Let's look at this picture together.
+See this picture together.
+
 ![Image text](https://github.com/ChenLyu01/Research-Project-1/blob/master/image/image1.png) 
+
 I need to put it on the top of the video so that it can be clicked by the audience.
 
 - Code without the game engine
